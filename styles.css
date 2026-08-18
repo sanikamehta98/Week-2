@@ -157,6 +157,19 @@ body {
     background-color: #333;
 }
 
+.download-button.tertiary {
+    background-color: transparent;
+    color: #333;
+    border: 1px solid #c0c0c0;
+}
+
+.download-button.tertiary:hover {
+    background-color: #D8D6CE;
+}
+
+.download-button.tertiary:active {
+    background-color: #D8D6CE;
+}
 /* ── Dev label ──
    Fixed badge at top of page — not part of the pricing UI. */
 
